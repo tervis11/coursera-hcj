@@ -1,2 +1,2 @@
 # coursera-hcj
-For CourserTML, CSS, JS course
+For Coursera HTML, CSS, JS course
