@@ -8,15 +8,15 @@ h1 {
 }
 
 p {
-	width: 96%;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 15px;
 }
 
 section {
 	background-color: #FFFFB5;
 	border: 1px solid black;
-	margin: 15px;
+	margin-left: 7.5px;
+	margin-right: 7.5px;
+	margin-bottom: 15px;
 }
 
 .row {
@@ -38,6 +38,7 @@ section {
 
 .chicken {
 	background-color: #FF968A;
+}
 }
 
 .beef {
@@ -63,7 +64,7 @@ section {
 		width: 25%;
 	}
 	.col-lg-4 {
-		width: 33%;
+		width: 33.33%;
 	}
 	.col-lg-5 {
 		width: 41.66%;
@@ -107,7 +108,7 @@ section {
 		width: 25%;
 	}
 	.col-md-4 {
-		width: 33%;
+		width: 33.33%;
 	}
 	.col-md-5 {
 		width: 41.66%;
