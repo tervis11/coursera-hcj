@@ -39,7 +39,6 @@ body {
 }
 #nav-list a {
   	color: #333;
-  	text-align: center;
 }
 #nav-list li:nth-child(1), #nav-list li:nth-child(2) {
 	border-bottom: 4px dashed #333;
