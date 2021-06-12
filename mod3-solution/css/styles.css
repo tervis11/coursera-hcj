@@ -22,7 +22,7 @@ body {
 
 .menu-item h3 {
 	font-weight: bold;
-	padding-bottom: 25px;
+	padding: 25px 0;
 }
 
 .navbar-default .navbar-toggle{
