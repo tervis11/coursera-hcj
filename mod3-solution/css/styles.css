@@ -25,6 +25,18 @@ body {
 	padding-bottom: 25px;
 }
 
+.navbar-default .navbar-toggle{
+	border-color: #333;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #FFD700;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #333;
+}
+
 #collapsable-nav {
 	border: 0;
 }
